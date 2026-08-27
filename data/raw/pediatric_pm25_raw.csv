@@ -1,7 +1,0 @@
-admission_id,admission_date,age,respiratory_condition,pm25_level,hospital_zone,ventilator_used
-101,8/12/2024,5,Asthma,45.2,North,FALSE
-102,12/8/2024,8,Bronchitis,NULL,South,TRUE
-103,13-Aug-24,12,Asthma,-999,North,FALSE
-104,8/14/2024,3,Pneumonia,68.5,East,TRUE
-104,8/14/2024,3,Pneumonia,68.5,East,TRUE
-105,8/15/2024,14,Asthma,12.1,NULL,FALSE
